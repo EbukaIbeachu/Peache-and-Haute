@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Lemonade Style 1",
+    "price": "₦29,500",
+    "sizes": ["37", "38", "39", "40", "41", "42"],
+    "photo_urls": ["https://i.imgur.com/615PAnk.jpeg"]
+  },
+  {
+    "name": "Lemonade Style 2",
+    "price": "₦29,500",
+    "sizes": ["37", "38", "39", "40", "41", "42"],
+    "photo_urls": ["https://i.imgur.com/6vWshIw.jpeg"]
+  },
+  {
+    "name": "Lemonade Style 3",
+    "price": "₦29,500",
+    "sizes": ["37", "38", "39", "40", "41", "42"],
+    "photo_urls": ["https://i.imgur.com/vwJ5fNS.jpeg"]
+  },
+  {
+    "name": "Lemonade Style 4",
+    "price": "₦29,500",
+    "sizes": ["37", "38", "39", "40", "41", "42"],
+    "photo_urls": ["https://i.imgur.com/LwaDc9l.jpeg"]
+  },
+  {
+    "name": "Chloe Bag",
+    "price": "₦20,000",
+    "sizes": [],
+    "photo_urls": ["https://i.imgur.com/fJh0SDy.jpeg"]
+  },
+  {
+    "name": "Studdeed Slingback Heels",
+    "price": "₦39,500",
+    "sizes": ["37", "38", "39", "40", "41", "42"],
+    "photo_urls": ["https://i.imgur.com/H5lspiF.jpeg"]
+  },
+  {
+    "name": "Osteospermum (Black & Silver) 3 inches",
+    "price": "₦34,500",
+    "sizes": ["37", "38", "39", "40", "41", "42"],
+    "photo_urls": [
+      "https://i.imgur.com/4NcWvlI.jpeg"
+    ]
+  },
+  {
+    "name": "Liliana Slingback Heels",
+    "price": "₦27,500",
+    "sizes": ["37", "38", "39", "40", "41", "42"],
+    "photo_urls": [
+      "https://i.imgur.com/n17QOA1.jpeg"
+    ]
+  }
+]
