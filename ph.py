@@ -16,8 +16,8 @@ from telegram.ext import (
     ContextTypes
 )
 
-BOT_TOKEN = '7574029588:AAH2KnssthfCwDfY8w8aFN9pwqTs7jAFDEY'
-ADMIN_CHAT_ID = '6612187231'  # Replace with your real admin ID
+BOT_TOKEN = 'insert bot token'
+ADMIN_CHAT_ID = 'insert admin user id'  # Replace with your real admin ID
 
 # Load products from products.json
 with open("products.json", "r", encoding="utf-8") as f:
